@@ -16,7 +16,6 @@
     "lucide-react": "^1.16.0",
     "motion": "^12.40.0",
     "next": "16.2.6",
-    "nodemailer": "^10.1.7",
     "react": "^19",
     "react-dom": "^19",
     "resend": "^6.17.2",
@@ -27,7 +26,6 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4.2.0",
     "@types/node": "^24",
-    "@types/nodemailer": "^8.0.2",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "postcss": "^8.5",
