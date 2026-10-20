@@ -20,7 +20,7 @@ const points = [
   {
     icon: Boxes,
     title: "Global Sourcing Network",
-    text: "Trusted sourcing partners spanning Asia, PG, AG, Fareast.",
+    text: "Trusted sourcing partners spanning Asia, PG, AG, Far East.",
   },
 ]
 
@@ -109,7 +109,7 @@ export function TradingSection() {
                 Routes
               </div>
               <div className="mt-1.5 font-heading text-lg font-extrabold tracking-wide">
-                Asia, PG, AG, Fareast
+                Asia, PG, AG, Far East
               </div>
             </div>
           </div>

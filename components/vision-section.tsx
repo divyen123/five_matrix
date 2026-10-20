@@ -137,7 +137,7 @@ export function VisionSection() {
               <article className="h-full rounded-2xl border border-white/20 bg-[#0b2a52]/40 p-5 shadow-2xl shadow-black/25 ring-1 ring-white/10 transition-colors hover:border-ocean/45 hover:bg-[#0b2a52]/40">
                 <h3 className="font-heading text-lg font-bold text-white">Our Commitment</h3>
                 <p className="mt-2 text-sm leading-6 text-white/72">
-                  At FIVE MATRIX Group, we believe that successful business is built on trust, professionalism, and long-term relationships.
+                  At Five Matrix Shipping, we believe that successful business is built on trust, professionalism, and long-term relationships.
                 </p>
                 <p className="mt-3 text-sm font-semibold text-white/90">We are committed to:</p>
                 <ul className="mt-2 space-y-1.5 pl-5 text-sm leading-6 text-white/72">

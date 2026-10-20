@@ -5,7 +5,7 @@ const items = [
   "FOB & CIF",
   "Rail Tracks & Billets",
   "Marine Insurance",
-  "Asia, PG, AG, Fareast",
+  "Asia, PG, AG, Far East",
   "Safe · Secure · Sustainable",
 ]
 
