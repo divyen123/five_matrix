@@ -146,7 +146,7 @@ export async function POST(request: Request) {
   // Method 3: Resend API
   const resendApiKey = process.env.RESEND_API_KEY
   if (resendApiKey) {
-    const from = process.env.RESEND_FROM_EMAIL || "Five Matrix Shipping <onboarding@resend.dev>"
+    const from = process.env.RESEND_FROM_EMAIL || "Five Matrix Shipping <info@fivematrixship.com>"
     const resend = new Resend(resendApiKey)
 
     const { error } = await resend.emails.send({
