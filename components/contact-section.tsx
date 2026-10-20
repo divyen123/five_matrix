@@ -77,7 +77,7 @@ export function ContactSection() {
             <div className="mt-9 space-y-4">
               {[
                 { icon: MapPin, label: "Address", value: "NO:49, DORSET ROAD, #03-100, FARRER PARK GARDENS, SINGAPORE - 210049." },
-                { icon: Mail, label: "Email", value: "info@fivematrixshipping.com" },
+                { icon: Mail, label: "Email", value: "info@fivematrixship.com" },
               ].map((c) => (
                 <Reveal key={c.label}>
                   <div className="flex items-center gap-4">

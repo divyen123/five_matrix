@@ -13,7 +13,7 @@ Live Site: [https://shipping.fivematrixshipping.com/](https://shipping.fivematri
 * **Services Grid & Details Modals**: An interactive 4x2 responsive services grid showcasing key capabilities (Sea Freight, Ship Broking, Chartering, Petroleum, etc.). Interactive cards reveal deep-dive overlay modals with custom content or link directly to affiliate platforms.
 * **Staggered Container Reveals**: Elegant, viewport-triggered spring physics entrance transitions that load grid columns and list components one-by-one as the user scrolls.
 * **Responsive Background Media**: Optimized high-definition background cargo/compass videos with overlays ensuring high readability.
-* **Integrated Inquiry System**: Functional contact engine routing enquiries directly to `info@fivematrixshipping.com` with pre-filled subject lines.
+* **Integrated Inquiry System**: Functional contact engine routing enquiries directly to `info@fivematrixship.com` with pre-filled subject lines.
 
 ---
 
