@@ -104,12 +104,7 @@ const servicesList: ServiceItem[] = [
       "Our mission is to provide the market with expert, independent assessments, focusing on every detail of customer requirements to provide a customer-oriented solution; our ultimate aim is to add value to our customer's product or service offerings.",
       "Product testing is a means to verify that goods comply with applicable standards or contractual obligations prior to shipment.",
       "The result of laboratory testing depends how effectively the commodity or the product has been sampled, the test methods applied, the credibility of the laboratory in which the tests have been performed and the interpretation of the test results."
-    ],
-    footerLink: {
-      text: "For more details, please ",
-      linkText: "click here",
-      url: "https://smrsas.me"
-    }
+    ]
   },
   {
     id: "petroleum",

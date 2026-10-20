@@ -47,7 +47,7 @@ export function SiteFooter() {
         </div>
 
         <div className="mt-10 flex flex-col items-center justify-between gap-3 border-t border-border pt-6 text-sm text-muted-foreground sm:flex-row">
-          <p>© 2025 Five Matrix Shipping Pte Ltd. All rights reserved.</p>
+          <p>© 2023 Five Matrix Shipping Pte Ltd. All rights reserved.</p>
          
         </div>
       </div>
